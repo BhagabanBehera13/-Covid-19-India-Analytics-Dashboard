@@ -8,18 +8,6 @@ The project transforms raw Covid-19 data into interactive visualizations and das
 
 The analysis covers the complete data analytics workflow, including data preparation, exploratory analysis, visualization, dashboard development, and business insight generation.
 
----
-
-# 📊 Tableau Dashboard
-
-### 🔗 Interactive Dashboard
-
-View the interactive Tableau dashboard:
-
-https://public.tableau.com/views/YourDashboardLinkHere
-
----
-
 # 🎯 Business Objectives
 
 The primary objectives of this Covid-19 Analytics project are:
