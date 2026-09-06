@@ -1,5 +1,3 @@
-# -Covid-19-India-Dashboard-Analytics
-
 # 🦠 Covid-19 India Analytics Dashboard
 
 ## Overview
